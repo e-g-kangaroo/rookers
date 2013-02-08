@@ -21,6 +21,6 @@ abstract class Instance
 
 	public function rand()
 	{
-		return ucfirst(static::$data[array_rand(static::$data)]);
+		return static::$data[array_rand(static::$data)];
 	}
 }
