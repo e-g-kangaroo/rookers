@@ -1,8 +1,8 @@
 <?php
 
-namespace Rookers;
+namespace Rookers\Japanese;
 
-class Region_Japan extends Instance
+class Japanese_Pref extends Instance
 {
 
 	protected static $data = array(

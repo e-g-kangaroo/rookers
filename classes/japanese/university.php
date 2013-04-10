@@ -1,8 +1,8 @@
 <?php
 
-namespace Rookers;
+namespace Rookers\Japanese;
 
-class University extends Instance
+class Japanese_University extends Instance
 {
 
 	protected static $data = array(
