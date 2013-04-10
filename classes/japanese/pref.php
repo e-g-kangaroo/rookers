@@ -1,6 +1,6 @@
 <?php
 
-namespace Rookers\Japanese;
+namespace Rookers;
 
 class Japanese_Pref extends Instance
 {
